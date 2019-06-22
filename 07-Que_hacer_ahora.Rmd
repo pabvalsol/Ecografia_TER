@@ -1,0 +1,37 @@
+# Qué hacer ahora
+
+La situación es la siguiente:
+
+ - Una demanda de ecografía que sobrepasa la capacidad de producción, sin posibilidad de aumentar la plantilla estructural y con poca capacidad de maniobra en lo que se refiere a incremento de jornadas de rebase. 
+* Dificultad para controlar la demanda, aunque se trabajará en el tema.
+* Amenaza real por parte de otros servicios, que ya están haciendo ecografías. 
+* Solicitud, por parte de la Dirección Gerencia del Distrito, de que se formen médicos de atención primaria para que realicen determinadas ecografías
+* Una plantilla de técnicos con deseo de realizar ecografías y que han demostrado ser competentes con una formación específica de corta duración. 
+
+En este escenario, hay que tomar algún tipo de decisión, ya que si no se realiza algún cambio o se toma alguna medida, es de esperar que alguien la tome por nosotros. Y cualquier acción que no venga desde Radiología no nos va a beneficiar. 
+
+**Opciones:**
+
+ - No hacer nada y usar la lista de espera como una medida de fuerza para que mejoren nuestras condiciones (más contratos). Es la reacción esperable, y que se puede plantear. Sin embargo, e independientemente de criterios éticos, no parece que sea razonable, ya que:
+	* No es posible aumentar la plantilla
+	* No hemos podido, a pesar de que nos han dado medios, hacer más ecografías (estamos sobrepasados de actividad)
+	* No parece muy estimulante, en la situación actual, hacer más peonadas de ecografía.
+	* Por otra parte, siempre existe el peligro (ya visto en otras ocasiones y en otros centros) de que alguien vea esta situación como una oportunidad y se lance  a hacer ecografías. La historia reciente de la radiología tiene ejemplos en los que los radiólogos fuimos perdiendo técnicas por nuestra actitud pasiva. La ecografía podría ser otro ejemplo. 
+* Aumentar la actividad que se externaliza. Se está haciendo ya, con cierta dificultad. No parece que vaya a tener un gran impacto ni a mejorar la situación global.
+* Rediseñar las agendas de actividad para aumentar la producción de ecografía. Esto supondría algún sacrificio de otras técnicas, algo que parece poco viable en la situación actual.
+* Contar con los técnicos para que las ecografías sigan haciéndose en radiología. Un posible escenario sería el siguiente: 
+	* Cuando exista un grupo de técnicos suficientes para realizar ecografías, se citan agendas específicas (tal como se explica más arriba) independientes de las agendas de radiólogos, pero (lógicamente) con un radiólogo asignado y que está realizando otra tarea. 
+	* Los técnicos gestionan la agenda y hacen los estudios según los procedimientos establecidos. Consultan con los radiólogos cuando haya alguna duda. Las imágenes se guardan en el PACS y las listas se asignan a un radiólogo, que informa el estudio en otro momento. Esta actividad se recoge y retribuye como peonada. 
+
+Las ventajas de esta última alternativa son muchas: 
+
+ - Los estudios se hacen en Radiodiagnóstico. El radiólogo sigue siendo el propietario del proceso.
+* El gasto se reinvierte en Radiodiagnóstico. Genera puestos de trabajo para técnicos y mejora la nóminas de los radiólogos. 
+* Abre las puertas a nuevas vías de desarrollo para los técnicos y para la instauración de nuevos cursos que pueden generar muchos beneficios para el servicio.
+* El proceso de aprendizaje estandarizado que se aplica para los técnicos se puede usar para los residentes. En los centros donde los técnicos hacen ecografía (muy pocos) la formación en ecografía de los técnicos no se ha visto mermada. 
+* Nos permitiría crecer y facilitar nuevas inversiones. 
+
+En cualquier caso, es necesario tomar alguna medida que intente solucionar (al menos parcialmente) la situación de la ecografía.  Se agradece cualquier tipo de sugerencia. En el contexto actual, mi apuesta es por el desarrollo del personal técnico y en la formación por competencias. 
+
+
+

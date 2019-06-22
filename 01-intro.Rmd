@@ -1,0 +1,15 @@
+# Introducción
+
+La ecografía es una de las técnicas de imagen más solicitadas. Sus indicaciones están creciendo y su utilidad es cada vez mayor. 
+
+Simultáneamente, los precios de los equipos y su tamaño están disminuyendo, de forma que ahora hay equipos muy baratos, con calidad de imagen suficiente y que se pueden llevar a la habitación del paciente. Esto origina:
+
+ - Los fabricantes buscan ampliar su cartera de clientes, y para ello ofrecen equipos a servicios que previamente no hacían ecografía (como medicina interna, UCI, dermatología…)
+* Muchos servicios ven la ecografía bien como una necesidad para mejorar su calidad de atención, o bien como una oportunidad de negocio. 
+
+En este contexto, hay más demanda de ecografías y más oferta de ecografía por diferentes servicios. Sin embargo:
+
+ - No hay regulación en la formación ni en la adquisición de competencias. Muchos servicios que hacen ecografía no tienen recogida esta técnica como parte de su formación durante el periodo de residencia. 
+* No hay regulación en cómo se debe hacer la ecografía, ni de temas tan básicos como exigir que la ecografía se acompañe de imágenes en el PACS o un informe asociado. 
+
+La situación actual, y que probablemente irá creciendo, es que la ecografía está pasando a ser una técnica que para muchos clínicos es “como el fonendoscopio” y que creen que se puede hacer como algo rutinario dentro de la exploración física del paciente. 

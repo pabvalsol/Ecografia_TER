@@ -1,0 +1,14 @@
+# La formación en ecografía de los Técnicos
+
+Se supone que el plan formativo de los técnicos incluye la ecografía, algo que sabemos que no es real. Por eso, se ha definido un proceso de formación en ecografía dirigido a obtener la competencia de "Adquisición de imágenes ecográficas en el cuello". 
+
+Este programa consiste en:
+
+- **Formación genérica en ecografía**: curso teórico avanzado de física e imagen ecográfica. Se trata de un curso no presencial, vía internet. Los técnicos tienen que aprobarlo para pasar a la siguiente fase.
+- **Formación específica en ecografía cervical**: metodología similar al anterior, pero en este caso es un curso específico de ecografía cervical.
+- **Prácticas con simulación** para conocer el proceso y evaluar las competencias genéricas. En esta fase se explica el manejo del ecógrafo, y del proceso general, y se comprueba si el usuario es competente en temas ¨"	generales como la comunicación, manejo de la sala, etc. Estas competencias evaluadas se registran, y cuando el técnIco las supera, pasa a la siguiente fase.
+- **Prácticas con pacientes**: inicialmente, el técnico acompaña al radiologo; observa cómo hace las ecografías y repasa los conceptos. Posteriormente, el técnico repite la ecografía, después de que la realice el radiólogo y en presencia de éste. Cuando el radiólogo revisa varios casos y comprueba que el técnico comprende el procedimiento, se cambia la dinámica y en la siguiente fase, el radiólogo hace la ecografía, el técnico la mira y posteriormente, el técnico la repite solo. En la siguiente fase, el técnico hace la ecografía y registra los cortes predeterminados. El radiólogo repite la ecografía y compara sus cortes con los que hizo el técnico. Por último, cuando el técnico ya domina el procedimiento, hace la ecografía en primer lugar y el radiólogo solo supervisa las dudas y comprueba el estudio. **En todas las fases se hace un registro de las imágenes y de los procedimientos**.
+
+De esta forma, la competencia se consigue de forma tutelada y, al final del proceso, el técnico es capaz de adquirir imágenes de ecografía cervical. 
+
+En esta primera parte del proyecto están participando ocho técnicos, que están en distintas fases del mismo. En septiembre de 2016, al menos dos hacen la adquisición de imágenes con buena calidad. 

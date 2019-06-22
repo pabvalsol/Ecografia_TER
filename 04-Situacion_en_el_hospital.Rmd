@@ -1,0 +1,9 @@
+# La situación en el hospital
+
+La situación en nuestro centro en lo que se refiere a la ecografía es compleja: 
+
+ - La demanda está creciendo de forma importante, especialmente en lo que se refiere a solicitudes de atención primaria.
+* Muchos servicios han adquirido ecógrafos con fondos propios de I + D. Están haciendo ecografías, en muchos casos de dudosa calidad, sin recoger las imágenes en el PACS y sin hacer informes correspondientes (en el mejor de los casos, se incluye una referencia en la historia del paciente).
+* La formación de estos médicos se está haciendo a partir de cursos impartidos por sus propios especialistas. De hecho, los últimos cursos de formación en ecografía impartidos en nuestro hospital fueron organizados por los servicios de Medicina Interna y de Dermatología. 
+
+En lo que se refiere a las listas de espera, la situación es insostenible, con demoras importantes y un número de pacientes pendientes de cita que sobrepasa los límites razonables. Con la situación actual de salas y personal no es previsible que se pueda solventar esta situación: no se puede aumentar la plantilla, es complejo limitar la demanda y no hay espacio físico para abrir nuevas salas de ecografía (en el supuesto de que se consiguieran equipos y radiólogos).

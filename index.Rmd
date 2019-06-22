@@ -1,0 +1,16 @@
+--- 
+title: "Ecografía en la Agencia Sanitaria Costa del Sol. ¿Qué pasa con los técnicos?"
+author: "Pablo Valdés Solís. DAIG Radiodiagnóstico"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    df_print: paged
+description: Resumen de la situación de las ecografías y de las opciones que existen
+  para mejorar la productividad.
+link-citations: yes
+bibliography:
+- book.bib
+- packages.bib
+site: bookdown::bookdown_site
+biblio-style: apalike
+---
